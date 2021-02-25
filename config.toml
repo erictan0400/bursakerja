@@ -46,7 +46,7 @@ summaryLength = 50
   #date_format = "12.02.2021"
 
   # verification string for Google Webmaster Tools
-  google_verify_meta = "ihX0wpFA0u5k5jESLkqXx-A6SCjWt2ApCx_5NvBhl20"
+  google_verify_meta = "VXvqQtz10qhzv0fT5I1f4yiKXRA-jFnCY9Dx51rAQuw"
 
   # verification string for Bing Webmaster Tools
   #bing_verify_meta = "3DA353059F945D1AA256B1CD8A3DA847"
